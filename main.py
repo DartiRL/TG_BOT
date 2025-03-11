@@ -236,7 +236,7 @@ def get_wiki(word):
     except Exception as erroe:
         return f"Ничего не нашёл {error}"
 print(get_wiki("Екатеринбург"))
-
+print ("DEVELOP")
 
 
 
